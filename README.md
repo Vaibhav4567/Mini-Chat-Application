@@ -6,7 +6,7 @@ This is a simple web-based mini chat application built using **Node.js**, **Expr
 
 ## 🌟 Project Overview
 
-The Mini WhatsApp project includes the following features:
+The Mini Chat Application project includes the following features:
 
 - **Add Messages**: Users can enter their name and a message using a form.
 - **View Messages**: Submitted messages are displayed in a chat-like interface.
