@@ -1,0 +1,100 @@
+/* body{
+    margin-left: 20px;
+}
+.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 16px;
+    padding: 5px 15px;
+}
+
+button{
+    border-radius: 20px;
+} */
+
+/* General body styling */
+
+
+
+
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fc;
+    color: #333;
+}
+
+/* Header styling */
+h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: #1e3a8a;
+}
+
+/* Chat container */
+.chat {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Message bubble */
+.msg {
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 16px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    max-width: 80%;
+}
+
+/* Form styling */
+form {
+    margin: 5px 0;
+}
+
+input[type="text"],
+textarea {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+/* Buttons */
+button {
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 1rem;
+    background-color: #1d4ed8;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #2563eb;
+}
+
+/* Add some spacing for HR and timestamps */
+hr {
+    margin: 15px 0;
+}
+
+p {
+    margin: 5px 0;
+}
